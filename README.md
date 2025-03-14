@@ -2,8 +2,8 @@
 
 This Modern Chair Project only used Html and Css.
 
-Features:
-Clean and minimalistic UI design
-Fully responsive layout
-Smooth hover effects and animations
-Well-structured HTML & CSS for easy customization
+##Features:
+1.Clean and minimalistic UI design
+2.Fully responsive layout
+3.Smooth hover effects and animations
+4.Well-structured HTML & CSS for easy customization
